@@ -7,5 +7,4 @@ Only build on debian bullseye
 
 `` ./build-debian-live.sh -g no-desktop ``
 
-Source: 
-## StamousNetwork
+Source: StamousNetwork
